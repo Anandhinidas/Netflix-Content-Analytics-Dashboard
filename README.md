@@ -9,6 +9,7 @@ Key Insights
 2,676 TV Shows
 123 Countries
 Average Movie Duration: 99.59 Minutes
+
 Dashboard Features
 KPI Cards
 Content Growth Analysis
@@ -17,6 +18,7 @@ Top 10 Countries
 Rating Analysis
 Monthly Content Additions
 Interactive Filters
+
 Tools Used
 Power BI
 Power Query
